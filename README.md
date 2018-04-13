@@ -1,5 +1,5 @@
 # myhead
-ファイル(２つまで）の内容を表示
+Command line to output two files
 ## command
 myhead -s=1 -e=3 -d=true hoge.txt huga.txt
 
